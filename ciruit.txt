@@ -1,0 +1,8 @@
+//材︽Inputだ 絬羆计 Gate羆计 Input絬计秖 ㎝Output絬计秖
+10 5 5 1
+//ㄤ–︽だGate(抖磅︽)
+1 2 AND 6
+3 4 OR 7
+4 5 NAND 8
+7 8 AND 9
+6 9 NAND 10
